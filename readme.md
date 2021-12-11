@@ -34,3 +34,4 @@ finally , push the excute jsx , it'll write json.data , and then Node.jsx detect
 
 ![alert](./readmeImgs/alert.jpg)
 
+**[Japanese explanation is here](https://kawano-shuji.com/justdiary/2021/12/11/photoshop-uxp-extendscript-excute/)**
