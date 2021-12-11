@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="./main.js"></script>    
+</head>
+<style>
+  body {
+    color: #fff;
+  }
+</style>
+<body>
+  <h1>connect extend script</h1>
+  <p id="path_name"></p>
+  <button id="change_color">Change Color</button>
+  <button id="set">set watch folder</button>
+  <button id="setJsx">set jsx</button>
+  <button id="excute_jsx">excute jsx</button>
+  <sp-textfield  id="arg">
+    <sp-label slot="label">
+      send msg
+    </sp-label>
+  </sp-textfield>
+  <sp-picker id="jsxList" placeholder="select a extend script..." style="width: 320px">
+    <sp-menu id="jsxListmenu" slot="options">
+
+    </sp-menu>
+  </sp-picker>
+</body>
+</html>
